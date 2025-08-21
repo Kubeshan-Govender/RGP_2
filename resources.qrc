@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Ferrari"/>
+    <qresource prefix="/">
+        <file>images/RedBull.png</file>
+        <file>images/Ferrari.png</file>
+        <file>images/Haas.png</file>
+        <file>images/McLaren.png</file>
+        <file>images/Mercedes.png</file>
+        <file>images/billboard.png</file>
+        <file>images/fence.png</file>
+        <file>images/grass.png</file>
+        <file>images/dhlBoard.png</file>
+        <file>images/garage.png</file>
+    </qresource>
+</RCC>
